@@ -1,2 +1,4 @@
 # Auto-Clicker
-Auto Clicker Python
+Auto Clicker using Python
+F1 to run click
+F2 to stop click
